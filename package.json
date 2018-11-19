@@ -3,14 +3,20 @@
   "version": "1.0.0",
   "description": "Some information about Marcus Hammarberg",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
-    "start": "node index.js"
+    "postinstall": "node ./index.js"
+  },
+  "bin": {
+    "marcushammarberg": "./index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marcusoftnet/business-card.git"
   },
-  "keywords": [],
+  "keywords": [ "person", "marcus hammarberg", "contact"],
   "author": "Marcus Hammarberg <marcusoftnet@gmail.com> (http://www.marcusoft.net)",
   "license": "MIT",
   "bugs": {
