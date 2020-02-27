@@ -1,2 +1,3 @@
-# business-card
-A very geeky version of my business card
+# Marcus Business card
+
+Now you can npx me. `npx marcusofnet`
