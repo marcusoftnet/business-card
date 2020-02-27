@@ -1,6 +1,6 @@
 {
   "name": "marcusoftnet",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Some information about Marcus Hammarberg",
   "main": "index.js",
   "publishConfig": {

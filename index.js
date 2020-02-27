@@ -20,7 +20,7 @@ const data = {
   name: chalk.white('               Marcus Hammarberg'),
   handle: chalk.white('marcusoftnet'),
   work: chalk.white('Head of curriculum at </salt>'),
-  twitter: chalk.cyan('twitter.com/') + chalk.green('marcusofnet'),
+  twitter: chalk.cyan('twitter.com/') + chalk.green('marcusoftnet'),
   github: chalk.cyan('github.com/') + chalk.green('marcusoftnet'),
   linkedin: chalk.cyan('www.linkedin.com/in/') + chalk.green('marcusoftnet'),
   web: chalk.cyan('www.marcusoft.net'),
