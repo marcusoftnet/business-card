@@ -1,43 +1,44 @@
 [32m[39m
-[32m   ╭─────────────────────────────────────────────────────────────────╮[39m
-[32m   │                                                                 │[39m
-[32m   │   [33mMMMMMMMMMMMMMMMMMMMMMMMMMNXK00KXWMMMMMMMMMMMMMMMMMMMMMMMMMM[32m   │[39m
-[32m   │   [33mMMMMMMMMMMMMMMMMMMMWNNNKkOxclodxxONMWNNNWMMMMMMMMMMMMMMMMMM[32m   │[39m
-[32m   │   [33mMMMMMMMMMMMMMMMMMXOkOOOl;l, ...;::lxdc;:dO00KXNWMMMMMMMMMMM[32m   │[39m
-[32m   │   [33mMMMMMMMMMMMMMWKkxdl:,;:'         ....   ..',:cloKMMMMMMMMMM[32m   │[39m
-[32m   │   [33mMMMMMMMMMMMMNx:....                           ..lNMMMMMMMMM[32m   │[39m
-[32m   │   [33mMMMMMMMMMMMWxc,    ,cxkd:,.    ;lcxkdooc'       cXMMMMMMMMM[32m   │[39m
-[32m   │   [33mMMMMMMMMMMMXo:.  .lNMMXOOl...';ddOWMMMMMXc     .lKMMMMMMMMM[32m   │[39m
-[32m   │   [33mMMMMMMMMMMMXl'.  ,0MMMWXKKOk0KKKNMMMMMMMWd.   .:kNMMMMMMMMM[32m   │[39m
-[32m   │   [33mMMMMMMMMMMM0:.  .oNMMMMMMMMMMMMMMMMMMMMMMk.   'oXMMMMMMMMMM[32m   │[39m
-[32m   │   [33mMMMMMMMMMMNl   ,dXMMMMMMMMMMMMMMMMMMMMMMMNx'   :XMMMMMMMMMM[32m   │[39m
-[32m   │   [33mMMMMMWX0OOl.  .cdkKNX0OOKNMMMMMMMMWNXNNKkol:.  .xWNXNWMMMMM[32m   │[39m
-[32m   │   [33mMMMMXxllc:,.;:colooollcccoKWWWWWMKdodxxddlclc,. .llllokNMMM[32m   │[39m
-[32m   │   [33mMMMNddKXKxloxkK0OOxlok0XXX0k0KKXKOOkxOxollx0XKdccldO0klkWMM[32m   │[39m
-[32m   │   [33mMMMXllKOOxldldKXKKKKXXXXKkxKWMMMXdlkKXXK00KKKkkKkcxXXKdxWMM[32m   │[39m
-[32m   │   [33mMMMW0occoOXNl:O0OOO0000KKKNMMMMMKll0XKK0O0000llKNK000kdKMMM[32m   │[39m
-[32m   │   [33mMMMMMWKxcl0Nd;OWMMMMMMWWMMMMMMMMNx:lKNWMMMMMNolNMWOoldXMMMM[32m   │[39m
-[32m   │   [33mMMMMMMMMXdlo:,kMMMWXK0KNW0dxKWWWXk,'x00OXWMMX:'oxxxkKWMMMMM[32m   │[39m
-[32m   │   [33mMMMMMMMMMWNXd.;OKKolOXWMMNk:,;cc:okKWMNOokOOx,;x0NMMMMMMMMM[32m   │[39m
-[32m   │   [33mMMMMMMMMMMMWk. ,:cdOxcdkkO0Oo::lkKK00O0NO:,;,oXMMMMMMMMMMMM[32m   │[39m
-[32m   │   [33mMMMMMMMMMWO:.    .:KOcoolcldkOOOOxl:,;kNx.  .oXMMMMMMMMMMMM[32m   │[39m
-[32m   │   [33mMMMMMMMWO:.    .   lXWWNX0kxxkxoc,.:kXWO.     ;OWMMMMMMMMMM[32m   │[39m
-[32m   │   [33mMMMMMWKc.     ',   .lKWMMWKd:;;,',lKMMK;  .    .oXMMMMMMMMM[32m   │[39m
-[32m   │   [33mMMMMNx'        .     .ckKNWNXKKKKXNWXk,  ,;      ;OWMMMMMMM[32m   │[39m
-[32m   │   [33mMMW0c.    .'   ...   'lc:;:coodxdooo:. .,,. ..    .oXMMMMMM[32m   │[39m
-[32m   │   [33mMMK;    . .,    ';   :NWXx,......;dOo. ::   ..      :KMMMMM[32m   │[39m
-[32m   │                                                                 │[39m
-[32m   │   [37m               Marcus Hammarberg[32m / [37mmarcusoftnet[32m               │[39m
-[32m   │                                                                 │[39m
-[32m   │   [37m[1m       Work:[22m[32m  [37mHead of curriculum at </salt>[32m                   │[39m
-[32m   │   [37m[1m    Twitter:[22m[32m  [36mtwitter.com/[32m[32mmarcusoftnet[32m                        │[39m
-[32m   │   [37m[1m     GitHub:[22m[32m  [36mgithub.com/[32m[32mmarcusoftnet[32m                         │[39m
-[32m   │   [37m[1m   LinkedIn:[22m[32m  [36mwww.linkedin.com/in/[32m[32mmarcusoftnet[32m                │[39m
-[32m   │   [37m[1m        Web:[22m[32m  [36mwww.marcusoft.net[32m                               │[39m
-[32m   │                                                                 │[39m
-[32m   │   [37m[1m      Books:[22m[32m [32m The Bungsu Story, bit.ly/bungsuStoryBook[32m        │[39m
-[32m   │    [32m             Kanban In Action, bit.ly/theKanbanBook[32m          │[39m
-[32m   │                                                                 │[39m
-[32m   │                                                                 │[39m
-[32m   ╰─────────────────────────────────────────────────────────────────╯[39m
+[32m   ╭────────────────────────────────────────────────────────────────────╮[39m
+[32m   │                                                                    │[39m
+[32m   │   [33mMMMMMMMMMMMMMMMMMMMMMMMMMNXK00KXWMMMMMMMMMMMMMMMMMMMMMMMMMM[32m      │[39m
+[32m   │   [33mMMMMMMMMMMMMMMMMMMMWNNNKkOxclodxxONMWNNNWMMMMMMMMMMMMMMMMMM[32m      │[39m
+[32m   │   [33mMMMMMMMMMMMMMMMMMXOkOOOl;l, ...;::lxdc;:dO00KXNWMMMMMMMMMMM[32m      │[39m
+[32m   │   [33mMMMMMMMMMMMMMWKkxdl:,;:'         ....   ..',:cloKMMMMMMMMMM[32m      │[39m
+[32m   │   [33mMMMMMMMMMMMMNx:....                           ..lNMMMMMMMMM[32m      │[39m
+[32m   │   [33mMMMMMMMMMMMWxc,    ,cxkd:,.    ;lcxkdooc'       cXMMMMMMMMM[32m      │[39m
+[32m   │   [33mMMMMMMMMMMMXo:.  .lNMMXOOl...';ddOWMMMMMXc     .lKMMMMMMMMM[32m      │[39m
+[32m   │   [33mMMMMMMMMMMMXl'.  ,0MMMWXKKOk0KKKNMMMMMMMWd.   .:kNMMMMMMMMM[32m      │[39m
+[32m   │   [33mMMMMMMMMMMM0:.  .oNMMMMMMMMMMMMMMMMMMMMMMk.   'oXMMMMMMMMMM[32m      │[39m
+[32m   │   [33mMMMMMMMMMMNl   ,dXMMMMMMMMMMMMMMMMMMMMMMMNx'   :XMMMMMMMMMM[32m      │[39m
+[32m   │   [33mMMMMMWX0OOl.  .cdkKNX0OOKNMMMMMMMMWNXNNKkol:.  .xWNXNWMMMMM[32m      │[39m
+[32m   │   [33mMMMMXxllc:,.;:colooollcccoKWWWWWMKdodxxddlclc,. .llllokNMMM[32m      │[39m
+[32m   │   [33mMMMNddKXKxloxkK0OOxlok0XXX0k0KKXKOOkxOxollx0XKdccldO0klkWMM[32m      │[39m
+[32m   │   [33mMMMXllKOOxldldKXKKKKXXXXKkxKWMMMXdlkKXXK00KKKkkKkcxXXKdxWMM[32m      │[39m
+[32m   │   [33mMMMW0occoOXNl:O0OOO0000KKKNMMMMMKll0XKK0O0000llKNK000kdKMMM[32m      │[39m
+[32m   │   [33mMMMMMWKxcl0Nd;OWMMMMMMWWMMMMMMMMNx:lKNWMMMMMNolNMWOoldXMMMM[32m      │[39m
+[32m   │   [33mMMMMMMMMXdlo:,kMMMWXK0KNW0dxKWWWXk,'x00OXWMMX:'oxxxkKWMMMMM[32m      │[39m
+[32m   │   [33mMMMMMMMMMWNXd.;OKKolOXWMMNk:,;cc:okKWMNOokOOx,;x0NMMMMMMMMM[32m      │[39m
+[32m   │   [33mMMMMMMMMMMMWk. ,:cdOxcdkkO0Oo::lkKK00O0NO:,;,oXMMMMMMMMMMMM[32m      │[39m
+[32m   │   [33mMMMMMMMMMWO:.    .:KOcoolcldkOOOOxl:,;kNx.  .oXMMMMMMMMMMMM[32m      │[39m
+[32m   │   [33mMMMMMMMWO:.    .   lXWWNX0kxxkxoc,.:kXWO.     ;OWMMMMMMMMMM[32m      │[39m
+[32m   │   [33mMMMMMWKc.     ',   .lKWMMWKd:;;,',lKMMK;  .    .oXMMMMMMMMM[32m      │[39m
+[32m   │   [33mMMMMNx'        .     .ckKNWNXKKKKXNWXk,  ,;      ;OWMMMMMMM[32m      │[39m
+[32m   │   [33mMMW0c.    .'   ...   'lc:;:coodxdooo:. .,,. ..    .oXMMMMMM[32m      │[39m
+[32m   │   [33mMMK;    . .,    ';   :NWXx,......;dOo. ::   ..      :KMMMMM[32m      │[39m
+[32m   │                                                                    │[39m
+[32m   │   [37m           Marcus Hammarberg[32m / [37mmarcusoftnet[32m                      │[39m
+[32m   │                                                                    │[39m
+[32m   │   [37m[1m       Work:[22m[32m  [36mConsultant at Umain, part of Eidra[32m                 │[39m
+[32m   │   [37m[1m      About:[22m[32m  [37mAgile Coach, Author, Speaker[32m                       │[39m
+[32m   │   [37m[1m      Email:[22m[32m  [37mmarcusoftnet@gmail.com[32m                             │[39m
+[32m   │   [37m[1m     GitHub:[22m[32m  [36mhttps://github.com/[32m[32mmarcusoftnet[32m                    │[39m
+[32m   │   [37m[1m   LinkedIn:[22m[32m  [36mhttps://www.linkedin.com/in/[32m[32mmarcusoftnet[32m           │[39m
+[32m   │   [37m[1m        Web:[22m[32m  [36mhttps://www.marcusoft.net[32m                          │[39m
+[32m   │                                                                    │[39m
+[32m   │   [37m[1m      Books:[22m[32m [32m The Bungsu Story, https://bit.ly/bungsuStoryBook[32m   │[39m
+[32m   │    [32m             Kanban In Action, https://bit.ly/theKanbanBook[32m     │[39m
+[32m   │                                                                    │[39m
+[32m   │                                                                    │[39m
+[32m   ╰────────────────────────────────────────────────────────────────────╯[39m
 [32m[39m

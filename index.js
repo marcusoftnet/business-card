@@ -17,17 +17,19 @@ const options = {
 // Text + chalk definitions
 const data = {
   ascii: chalk.yellow(asciiFace),
-  name: chalk.white('               Marcus Hammarberg'),
+  name: chalk.white('           Marcus Hammarberg'),
   handle: chalk.white('marcusoftnet'),
-  work: chalk.white('Head of curriculum at </salt>'),
-  twitter: chalk.cyan('twitter.com/') + chalk.green('marcusoftnet'),
-  github: chalk.cyan('github.com/') + chalk.green('marcusoftnet'),
-  linkedin: chalk.cyan('www.linkedin.com/in/') + chalk.green('marcusoftnet'),
-  web: chalk.cyan('www.marcusoft.net'),
-  bungsuBook: chalk.green(' The Bungsu Story, bit.ly/bungsuStoryBook'),
-  kanbanBook: chalk.green('             Kanban In Action, bit.ly/theKanbanBook'),
+  about: chalk.white('Agile Coach, Author, Speaker'),
+  email: chalk.white('marcusoftnet@gmail.com'),
+  work: chalk.cyan('Consultant at Umain, part of Eidra'),
+  github: chalk.cyan('https://github.com/') + chalk.green('marcusoftnet'),
+  linkedin: chalk.cyan('https://www.linkedin.com/in/') + chalk.green('marcusoftnet'),
+  web: chalk.cyan('https://www.marcusoft.net'),
+  bungsuBook: chalk.green(' The Bungsu Story, https://bit.ly/bungsuStoryBook'),
+  kanbanBook: chalk.green('             Kanban In Action, https://bit.ly/theKanbanBook'),
+  labelAbout: chalk.white.bold('      About:'),
+  labelEmail: chalk.white.bold('      Email:'),
   labelWork: chalk.white.bold('       Work:'),
-  labelTwitter: chalk.white.bold('    Twitter:'),
   labelGitHub: chalk.white.bold('     GitHub:'),
   labelLinkedIn: chalk.white.bold('   LinkedIn:'),
   labelWeb: chalk.white.bold('        Web:'),
@@ -40,25 +42,27 @@ const data = {
 const newline = '\n'
 const ascii = `${data.ascii}`
 const heading = `${data.name} / ${data.handle}`
-const working = `${data.labelWork}  ${data.work}`
-const twittering = `${data.labelTwitter}  ${data.twitter}`
-const githubing = `${data.labelGitHub}  ${data.github}`
-const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`
-const webing = `${data.labelWeb}  ${data.web}`
-const booking = `${data.labelBooks}`
-const bookIngKIA = ` ${data.kanbanBook}`
-const bookIngSBS = ` ${data.bungsuBook}`
+const about = `${data.labelAbout}  ${data.about}`
+const email = `${data.labelEmail}  ${data.email}`
+const work = `${data.labelWork}  ${data.work}`
+const github = `${data.labelGitHub}  ${data.github}`
+const linkedIn = `${data.labelLinkedIn}  ${data.linkedin}`
+const blog = `${data.labelWeb}  ${data.web}`
+const books = `${data.labelBooks}`
+const bookKIA = ` ${data.kanbanBook}`
+const bookSBS = ` ${data.bungsuBook}`
 
 // Put all our output together into a single variable so we can use boxen effectively
 const output = ascii + newline + newline +
-               heading + // data.name + data.handle
-               newline + newline + // Add one whole blank line
-               working + newline + // data.labelWork + data.work
-               twittering + newline + // data.labelTwitter + data.twitter
-               githubing + newline + // data.labelGitHub + data.github
-               linkedining + newline + // data.labelLinkedIn + data.linkedin
-               webing + newline + newline + // data.labelWeb + data.web
-               booking + bookIngSBS + newline +
-               bookIngKIA + newline
+               heading +
+               newline + newline +
+               work + newline +
+               about + newline +
+               email + newline +
+               github + newline +
+               linkedIn + newline +
+               blog + newline + newline +
+               books + bookSBS + newline +
+               bookKIA + newline
 
 fs.writeFileSync(path.join(__dirname, 'bin/output'), chalk.green(boxen(output, options)))
