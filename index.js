@@ -1,11 +1,15 @@
-'use strict'
 
-// Pull in our modules
-const chalk = require('chalk')
-const boxen = require('boxen')
-const fs = require('fs')
-const path = require('path')
-const asciiFace = fs.readFileSync('./bin/ascii.txt').toString()
+// ESM imports
+import chalk from 'chalk'
+import boxen from 'boxen'
+import fs from 'fs'
+import path from 'path'
+import { fileURLToPath } from 'url'
+
+// ESM __dirname replacement
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
+const asciiFace = fs.readFileSync(path.join(__dirname, 'bin/ascii.txt')).toString()
 
 // Define options for Boxen
 const options = {
